@@ -1,0 +1,16 @@
+body {
+    background-color: wheat !important;
+}
+
+.title {
+    color: black;
+    padding: 25px;
+    margin: 15px;
+    height: 200px;
+}
+
+#titleImg {
+    margin: 15px;
+    height: 175px;
+    float: right;
+}
